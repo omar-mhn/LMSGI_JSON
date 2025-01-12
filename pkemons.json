@@ -1,0 +1,92 @@
+{
+    "pokemons": [
+      {
+        "id": 25,
+        "nombre": "Pikachu",
+        "tipos": ["Eléctrico"],
+        "peso": {
+          "valor": 6000,
+          "unidad": "g"
+        },
+        "altura": {
+          "valor": 40,
+          "unidad": "cm"
+        },
+        "estadísticas": {
+          "velocidad": 90,
+          "fuerza": 55,
+          "precisión": 100,
+          "resistencia": 35
+        },
+        "movimientos": [
+          {
+            "nombre": "Rayo",
+            "descripción": "Un poderoso ataque eléctrico que puede paralizar al objetivo.",
+            "potencia": 90,
+            "contacto": false
+          },
+          {
+            "nombre": "Ataque rápido",
+            "descripción": "Un movimiento rápido que ataca primero.",
+            "potencia": 40,
+            "contacto": true
+          }
+        ],
+        "imagen": "https://static.wikia.nocookie.net/espokemon/images/7/77/Pikachu.png/revision/latest/scale-to-width-down/1200?cb=20150621181250",
+        "evolucions": [
+          {
+            "id_evolucion": 26,
+            "nombre_evolucion": "Raichu",
+            "nivel_evolucion": 22
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nombre": "Charmander",
+        "tipos": ["Fuego"],
+        "peso": {
+          "valor": 8500,
+          "unidad": "g"
+        },
+        "altura": {
+          "valor": 60,
+          "unidad": "cm"
+        },
+        "estadísticas": {
+          "velocidad": 65,
+          "fuerza": 52,
+          "precisión": 95,
+          "resistencia": 39
+        },
+        "movimientos": [
+          {
+            "nombre": "Llamarada",
+            "descripción": "Un ataque de fuego que puede causar quemaduras.",
+            "potencia": 90,
+            "contacto": false
+          },
+          {
+            "nombre": "Arañazo",
+            "descripción": "Un ataque físico rápido con las garras.",
+            "potencia": 40,
+            "contacto": true
+          }
+        ],
+        "imagen": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png",
+        "evolucions": [
+          {
+            "id_evolucion": 5,
+            "nombre_evolucion": "Charmeleon",
+            "nivel_evolucion": 16
+          },
+          {
+            "id_evolucion": 6,
+            "nombre_evolucion": "Charizard",
+            "nivel_evolucion": 36
+          }
+        ]
+      }
+    ]
+}
+  
