@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encouding="UTF-8"?>
+<!--Aquí comienza la sección de la tienda de venta de guitarras-->
+<botiga>
+    <!--Aquí comienza la sección de la guitarra de classe Acusticà-->
+    <guitarra category ="Acusticá">
+        <!--En esta sección tenemos los detalles de la guitarra.-->
+        <nom> Yamaha A3 </nom>
+        <codi>AY-1398</codi>
+        <descripcio> Guitarra acústica de madera con acabado brillante, ideal para músicos de todos los niveles. Ofrece un sonido claro y potente con cuerdas de acero que brindan una resonancia profunda y un tono vibrante. Perfecta para tocar estilos variados como folk, rock y country.</descripcio>
+        <preu divisa ="$">249 </preu>
+        <categoria>Guitarra acusticá</categoria>
+        <disponibilitat>322 </disponibilitat>
+        <image>https://www.pronorte.es/p/yamaha-f370 </image>
+    </guitarra>
+        <!--Aquí comienza la sección de la guitarra de classe Clásica-->
+    <guitarra category ="Clásica">
+        <!--En esta sección tenemos los detalles de la guitarra.-->
+        <nom> Yamaha C-23 </nom>
+        <codi>GC-001</codi>
+        <descripcio> Guitarra clásica de madera, ideal para principiantes y músicos experimentados. Ofrece un sonido cálido y resonante con cuerdas de nylon para una experiencia de toque suave y cómoda.</descripcio>
+        <preu devisa ="$">345 </preu>
+        <categoria>Guitarra clásica</categoria>
+        <disponibilitat>32 </disponibilitat>
+        <image>https://www.pronorte.es/p/yamaha-c70ii </image>
+    </guitarra>
+   
+</botiga>
